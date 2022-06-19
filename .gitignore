@@ -100,9 +100,26 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+ipynb_checkpoints
+
+Include
+sqlformat.exe
+activate
+activate.bat
+Activate.ps1
+deactivate.bat
+django-admin.exe
+django-admin.py
+easy_install.exe
+easy_install-3.7.exe
+pip.exe
+pip3.7.exe
+pip3.10.exe
+pip3.exe
+python.exe
+pythonw.exe
 
 # Environments
-.env
 .venv
 env/
 venv/
